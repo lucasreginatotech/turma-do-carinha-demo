@@ -203,3 +203,54 @@ details[open] { background: #f6f0ff; }
   .contact-star { display: none; }
   .contact .button { font-size: 12px; gap: 12px; padding-inline: 16px; }
 }
+
+/* Contato flutuante: ícone legível e convite discreto, sem cobrir a página. */
+.whatsapp-float {
+  width: auto;
+  height: 66px;
+  right: 24px;
+  bottom: 24px;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 9px 17px 9px 10px;
+  border: 1px solid #d4eade;
+  border-radius: 24px;
+  background: #fff;
+  color: #185b41;
+  box-shadow: 0 6px 24px #1a533b20, 0 2px 5px #1a533b0a;
+  transition: transform .2s, box-shadow .2s;
+}
+.whatsapp-float:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px #1a533b2b;
+}
+.whatsapp-icon {
+  width: 45px;
+  height: 45px;
+  display: grid;
+  place-items: center;
+  border-radius: 16px;
+  background: #16844f;
+  color: white;
+  flex-shrink: 0;
+}
+.whatsapp-float svg { width: 29px; height: 29px; }
+.whatsapp-copy { display: flex; flex-direction: column; gap: 3px; line-height: 1.2; }
+.whatsapp-copy small { font-size: 10px; font-weight: 500; color: #63756b; }
+.whatsapp-copy strong { font-size: 13px; font-weight: 700; }
+.whatsapp-arrow { font-size: 20px; color: #16844f; margin-left: 1px; }
+@media (max-width: 600px) {
+  .whatsapp-float {
+    right: 14px;
+    bottom: max(14px, env(safe-area-inset-bottom));
+    height: 54px;
+    padding: 6px 12px 6px 6px;
+    gap: 9px;
+    border-radius: 20px;
+  }
+  .whatsapp-icon { width: 40px; height: 40px; border-radius: 14px; }
+  .whatsapp-float svg { width: 27px; height: 27px; }
+  .whatsapp-copy small, .whatsapp-arrow { display: none; }
+  .whatsapp-copy strong { font-size: 12px; }
+}
