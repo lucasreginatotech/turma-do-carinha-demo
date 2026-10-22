@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucasreginatotech.github.io/turma-do-carinha-demo/sitemap.xml
