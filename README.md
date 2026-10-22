@@ -48,3 +48,7 @@ Não há formulário falso, reserva simulada, rastreamento, cookies de marketing
 ## Publicação
 
 GitHub Pages configurado para a raiz da branch `main`. Caminhos locais relativos suportam o subdiretório `/turma-do-carinha-demo/`. Consulte `TESTES.md` para os resultados efetivamente observados.
+
+## Atualização visual infantil
+
+Layout alinhado, sem inclinação em fotos, etiquetas ou faixas. Paleta ampliada com rosa, azul, verde, amarelo e roxo; cards de brinquedo, formas arredondadas e fundo de bolinhas. A ilustração `assets/mundo-carinha.svg` é vetorial original criada pela LR Tech para esta demonstração, não representa instalações reais do buffet. As fotografias Unsplash permanecem na galeria com os mesmos créditos.

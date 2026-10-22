@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 620" fill="none">
+  <title>Um mundo de brincadeiras: roda-gigante, arco-íris e personagens sorridentes</title>
+  <defs><pattern id="dots" width="38" height="38" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2" fill="#fff" opacity=".65"/></pattern></defs>
+  <rect width="640" height="620" rx="48" fill="#a9e9ff"/>
+  <rect width="640" height="620" rx="48" fill="url(#dots)"/>
+  <path d="M390 199a106 106 0 0 1 212 0" stroke="#ff6c94" stroke-width="23"/><path d="M414 199a82 82 0 0 1 164 0" stroke="#ffd34d" stroke-width="23"/><path d="M438 199a58 58 0 0 1 116 0" stroke="#7853e7" stroke-width="23"/>
+  <g fill="white"><path d="M358 204c-17-31 10-58 34-47 7-40 67-39 72 3 30-12 55 19 37 44Z"/><path d="M530 211c-19-30 11-57 33-43 10-38 61-33 67 2 26-7 45 21 29 41Z"/><path d="M35 130c-15-28 10-50 34-39 9-37 60-34 66 3 27-10 53 18 35 36Z"/></g>
+  <circle cx="240" cy="81" r="38" fill="#ffd34d"/><g stroke="#edaa20" stroke-width="6" stroke-linecap="round"><path d="M240 25V13M240 149v-12M183 81h-12M308 81h-12M199 40l-9-9M290 131l-9-9M199 122l-9 9M290 31l-9 9"/></g>
+  <g fill="#44306b"><circle cx="229" cy="77" r="3"/><circle cx="250" cy="77" r="3"/></g><path d="M231 91q9 10 18 0" stroke="#44306b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M0 493q148-91 315-17t325-20v116a48 48 0 0 1-48 48H48a48 48 0 0 1-48-48Z" fill="#81d9a5"/><path d="M0 562q164-64 333-6t307-9v25a48 48 0 0 1-48 48H48a48 48 0 0 1-48-48Z" fill="#60c693"/>
+  <g stroke="#6641c6" stroke-width="12" stroke-linecap="round"><path d="m131 512 105-215 106 215M159 501h157"/></g>
+  <circle cx="236" cy="287" r="141" fill="#ffffff45" stroke="#fff" stroke-width="14"/>
+  <circle cx="236" cy="287" r="119" stroke="#a58aef" stroke-width="4" stroke-dasharray="8 9"/>
+  <g stroke="#7853e7" stroke-width="6"><path d="M236 146v282M95 287h282M136 187l200 200M136 387l200-200"/></g>
+  <circle cx="236" cy="287" r="27" fill="#ffd34d" stroke="white" stroke-width="7"/>
+  <g stroke="white" stroke-width="5"><rect x="209" y="128" width="54" height="51" rx="17" fill="#ff6c94"/><rect x="209" y="393" width="54" height="51" rx="17" fill="#ffac42"/><rect x="70" y="260" width="54" height="51" rx="17" fill="#42c9c3"/><rect x="350" y="260" width="54" height="51" rx="17" fill="#ff6c94"/><rect x="112" y="164" width="54" height="51" rx="17" fill="#ffd34d"/><rect x="307" y="164" width="54" height="51" rx="17" fill="#a48bef"/><rect x="112" y="361" width="54" height="51" rx="17" fill="#a48bef"/><rect x="307" y="361" width="54" height="51" rx="17" fill="#ffd34d"/></g>
+  <g fill="#fff" opacity=".85"><rect x="221" y="139" width="30" height="16" rx="6"/><rect x="82" y="271" width="30" height="16" rx="6"/><rect x="362" y="271" width="30" height="16" rx="6"/></g>
+  <path d="M462 357c-37-33-50-68-23-83 29-16 55 28 23 83Z" fill="#ff6c94"/><path d="M462 357q-22 36 6 76" stroke="#6641c6" stroke-width="3"/>
+  <path d="M531 338c-33-39-33-77-4-84 34-8 47 42 4 84Z" fill="#ffd34d"/><path d="M531 338q22 51-13 92" stroke="#6641c6" stroke-width="3"/>
+  <g><rect x="425" y="411" width="142" height="135" rx="50" fill="#ffd34d"/><path d="m433 457-28-20m153 20 25-25" stroke="#ffd34d" stroke-width="18" stroke-linecap="round"/><circle cx="470" cy="460" r="6" fill="#44306b"/><circle cx="523" cy="460" r="6" fill="#44306b"/><path d="M479 485q18 24 36 0" stroke="#44306b" stroke-width="6" stroke-linecap="round"/><circle cx="455" cy="477" r="10" fill="#ff997a"/><circle cx="539" cy="477" r="10" fill="#ff997a"/><path d="m468 544-8 20m62-20 8 20" stroke="#7853e7" stroke-width="15" stroke-linecap="round"/><path d="m469 413 27-54 28 54" fill="#ff6c94"/><circle cx="496" cy="358" r="9" fill="white"/><path d="m484 383 26 10" stroke="white" stroke-width="6"/></g>
+  <g fill="#7853e7"><path d="m64 411 6 14 16 2-12 11 3 16-13-8-14 8 3-16-12-11 17-2Z"/><path d="m555 63 5 12 14 2-10 9 2 14-11-7-12 7 3-14-10-9 13-2Z"/></g>
+  <g fill="#ff6c94"><circle cx="391" cy="90" r="8"/><circle cx="90" cy="532" r="8"/><circle cx="577" cy="374" r="7"/></g><g fill="#fff"><circle cx="369" cy="481" r="6"/><circle cx="183" cy="552" r="6"/><circle cx="592" cy="497" r="6"/></g>
+</svg>
